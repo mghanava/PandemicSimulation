@@ -1,0 +1,1 @@
+A simple SIR model (Susceptible-Infected-Recovered) with considering contact rate to simulate how an infection spreads in a community.  
